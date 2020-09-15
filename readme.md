@@ -25,12 +25,12 @@ Github Explorer is a project developed with React that list repositories and dis
 
 ## <img src=".docs/label.svg" width="18px">&nbsp; Technologies used
 
-[- React](https://reactjs.org/)
-[- React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
-[- Github API](https://developer.github.com/v3/)
-[- Styled Components](https://styled-components.com/)
-[- Local Storage](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/Window.localStorage)
-[- Responsive Layout](https://www.w3schools.com/html/html_responsive.asp)
+[- React](https://reactjs.org/) <br>
+[- React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html) <br>
+[- Github API](https://developer.github.com/v3/) <br>
+[- Styled Components](https://styled-components.com/) <br>
+[- Local Storage](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/Window.localStorage) <br>
+[- Responsive Layout](https://www.w3schools.com/html/html_responsive.asp) <br>
 
 
 ## <img src=".docs/label.svg" width="18px">&nbsp; License
